@@ -6,13 +6,9 @@ The input is a pair of a visual display of the environment (the image on the lef
 The yellow box shows the output guidance for VI users to complete the request within the environment (the image on the right).
 The output should be grounded and fine-grained for VI users to follow easily.
 ![VIALM](./images/VIALM_task.png 'VIALM_task')
-## 2. Paper Collections
-For the survey part, we have collected a list of related papers, which will be continually updated. The image below summarizes the timeline of the papers.
-![Timeline](./images/timeline.png 'LM Timeline')
 
 ## 2. Paper Collections
-For the survey part, we have collected a list of related papers, which will be continually updated. The image below summarizes the timeline of the papers.
-![Timeline](./images/timeline.png 'LM Timeline')
+For the survey part, we have collected a list of related papers, covering LLMs, VLMs, and embodid agents.
 
 ### 2.1 Large Language models (LLMs)
 * Tom B. Brown, Benjamin Mann, and et al. Language models are few-shot learners. In NeurIPS, 2020. [link](https://arxiv.org/abs/2005.14165)
