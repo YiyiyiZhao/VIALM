@@ -1,0 +1,502 @@
+[
+  {
+    "index": 0,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain soy sauce. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees. You may first encounter bottled jellies, which have a smooth, plastic outer packaging. The item you need is at your Top right. You can identify the condiment bottles by their shape, and they have a firm, glass exterior."
+  },
+  {
+    "index": 1,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen items. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; please move forward 6 steps, then turn right 90 degrees; please move forward 4 steps, then remain standing. There is nothing obstructing the pathway, ensuring a smooth and unimpeded walk. The item you need is at your front. Initially, you will encounter the refrigerator door; upon opening it, a cool chill will greet you, indicating its contents."
+  },
+  {
+    "index": 2,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain apple. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; please move forward 3 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your left. You can identify fruits by their shape; there's a row of fruit containers,starting with oranges on the left, followed by red apples which you'll touch first, and then green apples to their right."
+  },
+  {
+    "index": 3,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cabbage. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; please move forward 3 steps, then turn right 90 degrees. The pathway is clear and unobstructed, ensuring a safe and easy walk. The item you need is at your middle lower. You can touch the cabbage and feel its leaves; its shape is somewhat round, resembling a ball."
+  },
+  {
+    "index": 4,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain leaf vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; please move forward 5 steps, then turn left 45 degrees. You will first encounter vegetables shaped like corn or zucchini, cylindrical in form; then, next to it, you'll touch something similar to chives, continue moving to the right. The item you need is at your front. You will come across a row of green leafy vegetables, which may feel slightly damp to the touch."
+  },
+  {
+    "index": 5,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. The pathway is clear, ensuring an unobstructed approach to the shelf. The item you need is at your front. They are packaged in plastic bags, with several square pieces forming a bag. If you touch the plastic wrapping gently, you will feel that they are somewhat soft."
+  },
+  {
+    "index": 6,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen meat. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. You will feel a cold draft from the refrigerator and first touch its glass barrier. The item you need is at your bottom left. Each piece of meat is wrapped in plastic film; gently touching any of them, you will feel the meat's elasticity. Some are whole cuts, others are sliced steaks. You can discern this by lightly feeling over the packaging, which may also feel slightly damp."
+  },
+  {
+    "index": 7,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain watermelon. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; please move forward 2 steps, then remain standing. Be very careful of your footing, as there are wooden fruit crates on the ground holding watermelons with sharp edges that could injure you, approximately at knee height. The item you need is at your bottom right. Crouching down, you will feel two hard spherical objects, possibly watermelons, and you might touch their cool vines. Additionally, due to the refrigeration unit above the fruit crates, you will notice some cool air around."
+  },
+  {
+    "index": 8,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bottle of water. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; please move forward 5 steps, then turn left 45 degrees. The pathway is clear, allowing for unobstructed movement. The item you need is at your front. You will encounter water in plastic bottles; if you pick one up and give it a gentle shake, you will feel the water sloshing inside."
+  },
+  {
+    "index": 9,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bottled water. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position;Please Move forward 2 steps, then Remain standing At knee height, you may first come across beverages in aluminum cans, which are coffee. The item you need is at your Bottom right. There are three brands of bottled water, each with slightly different packaging shapes, but all in plastic bottles; you can choose depending on your preference."
+  },
+  {
+    "index": 10,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position;Please Move forward 2 steps, then Turn left 45 degrees You will first touch the shelf, which has two layers, each laden with bread. The item you need is at your Left. There are breads of different shapes, all wrapped in plastic bags. You can choose the suitable weight and size for your needs. By slightly touching them, you can feel their softness, though they might feel a bit greasy, and you may also smell the aroma of the bread."
+  },
+  {
+    "index": 11,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain tomatoes. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward In front of you is a shelf where you might first encounter fresh Pleurotus ostreatus, clustered together, feeling very soft to the touch. The item you need is at your Middle lower. You will notice that the tomatoes are round in shape and feel somewhat heavy when picked up."
+  },
+  {
+    "index": 12,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain daily necessities. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 4 steps, then turn right 45 degrees. As you advance, note that the pathway is clear. The item you need is located at your front. Nearby, there are some laundry detergents; on the left, they are in plastic bottles, and on the right, in plastic bags - lifting them might feel a bit heavy due to their weight."
+  },
+  {
+    "index": 13,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen fish. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees. You will feel a freezer, which can be accessed by sliding open the door on top. The item you need is at your middle lower. Inside the freezer, you will notice that the food items are quite cold and frozen solid, and you can identify whether the food is fish, shrimp, or others by their shapes."
+  },
+  {
+    "index": 14,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain boxed milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. The space between is empty. The item you need is at your front. As you reach out, you will touch milk cartons of different sizes; you can choose the size that suits your needs. Some milk cartons are simple rectangular boxes, while others have a roof-like top."
+  },
+  {
+    "index": 15,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 2 steps, then turn right 45 degrees. You might first touch boxed snacks, which might feel a bit heavy when picked up. The item you need is at your middle lower level. You will encounter large, air-filled plastic bags that aren't particularly heavy; if you gently lift them, you can feel that they contain chips."
+  },
+  {
+    "index": 16,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bulk snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 6 steps, then turn right 45 degrees. You might pass a step about the height of a hand; be mindful of your footing. The item you need is at your front. They are placed on shelves, organized in different bins, and there may be various types, allowing you to grab according to your needs."
+  },
+  {
+    "index": 17,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees. You might first touch some snacks in plastic bags filled with air. The item you need is at your right. The chip bags you'll encounter next are larger than the snacks you just touched; you can gently lift them and might hear the sound of chips clashing inside."
+  },
+  {
+    "index": 18,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen food. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. You will touch a freezer with an open top, and next to you, there might be a small shelf with noodles in plastic bags. The item you need is at your middle lower level. You need to reach into the freezer, which might feel a bit cold; the refrigerated food is wrapped in plastic bags, and you can gently touch their surface to distinguish whether they are steaks, sliced meat, or bones."
+  },
+  {
+    "index": 19,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain pepper. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees. On the top shelf, you might touch fresh broccoli with no packaging; a layer below, you could feel half-length corn sealed in packaging, to the right are vegetables in plastic bowls, and further right, long-shaped onions in plastic bags. The item you need is at your front. Starting from the long-shaped onions, you need to go down a layer where you will touch fresh peppers; they have sharp tails and are small in size. To the left are red chili peppers, and to the right are green chili peppers."
+  },
+  {
+    "index": 20,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain something to drink. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 3 steps, then turn right 45 degrees. The pathway ahead is clear. The item you need is at your front. As you reach out, you will touch a series of bottles; some are made of plastic, while others are aluminum cans, with those on the right possibly being coffee cans."
+  },
+  {
+    "index": 21,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain mustard. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees; then move forward 1 step, and remain standing. You might touch small glass bottles containing seasoning powders. The item you need is at your left. Below the layer of glass-bottled seasoning powders, you will touch items in rectangular paper boxes; mustard is stored in these small boxes."
+  },
+  {
+    "index": 22,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beer. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees; then move forward 1 step, and remain standing. There is nothing in between. The item you need is at your front. The items housed in aluminum cans rest on the shelf. Upon touching them, you'll notice their smooth, cold surface. Slightly lifting them may even allow you to feel the liquid inside shifting."
+  },
+  {
+    "index": 23,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 6 steps, then turn left 90 degrees; move forward 1 step, and remain standing. There is nothing in between in the passageway. The item you need is at your middle lower level. You might touch daikon radishes; to the left of the daikon are carrots. The daikon is larger than the carrots, and to the left of the carrots are individual heads of bok choy."
+  },
+  {
+    "index": 24,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain plastic chairs. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. There is nothing in the pathway. The item you need is at your front. The items, stacked together, are plastic stools; you might touch the four legs of a stool. When you try to take one, it may require some effort to separate these stacked stools."
+  },
+  {
+    "index": 25,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chopsticks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 1 step, then turn left 45 degrees. On the shelf, you might first touch some items such as seasoning boxes. The item you need is at your top right. These items are wrapped in plastic bags, and each one contains about 5 pairs of chopsticks, with the width being approximately equal to that of 5 pairs of chopsticks."
+  },
+  {
+    "index": 26,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chocolate milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. On the top row of the shelf, your left hand might touch a promotion price list, approximately the size of a hand. The item you need is at your middle upper level. To the right of the price list, the fourth bottle is chocolate-flavored milk, with two bottles in total. To their right are two bottles of original flavor milk, and further to the right, there is a space for one more bottle on the shelf."
+  },
+  {
+    "index": 27,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 2 steps, then turn right 45 degrees. You might touch some box-shaped small biscuits in plastic bag packaging on the top shelf. The item you need is at your top right. Below the biscuits, you will touch snacks in air-filled bags; you can gently lift them to feel the chips colliding inside."
+  },
+  {
+    "index": 28,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees. First, you will touch plastic bags covering baskets; these contain fresh peanuts, possibly mixed with moist soil that may dirty your hands. The item you need is at your left. On the left, you will first touch fresh green beans, which have a smooth surface, and then, moving further in, fresh okra with a rougher texture. You can differentiate them by shape and size, as the okra is slightly larger than the green beans."
+  },
+  {
+    "index": 29,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 1 step, then turn right 90 degrees. In the area from the ground to knee height, you might first encounter some fruits; please be cautious for safety. The item you need is at your front. On the shelf from left to right are apples, oranges, and plums. As the products are not neatly placed but contained in various vessels, their heights vary. A little lower to the right of the apples are oranges, higher to the right of the oranges are plums; inside near the plums, kiwis are stacked, and outside near the plums, a bunch of bananas is placed. The position of the kiwis is relatively high."
+  },
+  {
+    "index": 30,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain red wine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 4 steps, then remain standing. There is nothing in between. The item you need is at your front. You can distinguish the items by their shape: wine bottles have a slender neck and are made of glass; when you pick them up, they might feel a bit heavy."
+  },
+  {
+    "index": 31,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 4 steps, then remain standing. There's nothing in between. The item you need is at your front. The entire shelf is stocked with aluminum canned beverages, all of a single type, and you can take a certain number as per your need."
+  },
+  {
+    "index": 32,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cooking oil. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 6 steps, then turn left 45 degrees. There's nothing in between. The item you need is at your left. On the top shelf are small bottles of cooking oil, while the bottom shelf holds large, family-sized containers of cooking oil. You can choose the appropriate size of cooking oil as per your need. They generally have handles, so pay attention to find the handle first. Additionally, be aware that cooking oil containers can be quite heavy to lift."
+  },
+  {
+    "index": 33,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bottled milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. Starting from the left side, using your left hand, you might first encounter yogurt, possibly several small bottles grouped together on a flat board. The item you need is at your front. Further down, you'll find the yogurt in a solid state, packaged in bowl-like plastic containers. To their right is fresh milk, all packaged in paper cartons with a roof-shaped top. On the top shelf of the rack, there are small packages of milk, while the other shelves hold larger quantities; you can choose based on your needs."
+  },
+  {
+    "index": 34,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain a carton of milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees. You might first touch some items stacked on top of the boxed milk, possibly four plastic bowl-packaged items. The item you need is at your left. Next, you will encounter cardboard boxes with rather sharp corners; please be careful. There is a handle near you. You may need to remove items from their tops before accessing the milk, which is heavy, so handle with care."
+  },
+  {
+    "index": 35,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees. As you reach towards the top shelf, you'll feel paper can-packaged chips; in the layers below, there are chips in plastic bags filled with air, which you can gently pick up and hear the chips rustling inside. The item you need is at your left. On the shelves, you will find chip packages of various types, each with a distinct texture and sound when handled."
+  },
+  {
+    "index": 36,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; please move forward 1 step, then turn left 45 degrees. You might first touch some food items packaged in plastic bags, possibly chips. The item you need is at your top left. To the left of the chips, you will feel boxed food in plastic packaging. If you gently touch their surface, you might feel the neatly arranged biscuits inside."
+  },
+  {
+    "index": 37,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain instant noodles. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward one step, then turn right 45 degrees. There's nothing in between. The item you need is at your front. The instant noodles you will encounter are bowl-shaped and packaged in paper cartons, filling the entire shelf."
+  },
+  {
+    "index": 38,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen pork. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. You will feel the chill from the refrigerated cabinet. The item you need is at your bottom right. These meats are packed in plastic bags, and if you gently touch them, you will feel the elasticity of the meat; some are steaks, others are sliced, allowing you to choose according to your needs."
+  },
+  {
+    "index": 39,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward one step, then turn right 45 degrees; then move forward another step, and remain standing. On the shelf, you might first touch fresh tomatoes, each a spherical shape. The item you need is at your bottom left. You can identify bananas by their shape, as they come in bunches and are elongated. If you pay close attention, you might even smell the bananas."
+  },
+  {
+    "index": 40,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain watermelon cut. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 9 steps, then turn right 90 degrees; then move forward 6 steps, and remain standing. As you make your way, there may be a person on the path, and you might need to avoid him.The item you need is at your middle lower. They are in an open-top freezer, and as you approach, you may feel the coolness of the freezer. The entire freezer is filled with watermelon cuts, seemingly unwrapped in plastic. You might first touch the edges of the freezer, and when you pick up a watermelon cut, it may feel very cold."
+  },
+  {
+    "index": 41,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain soymilk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. In front of you, you might encounter a price tag, encased in hard plastic, about the size of a small book; be careful not to let it hurt you. The item you need is at your left. To the left of the price tag is a bottle of soymilk, and to the right is a bottle of milk. They are both packaged in cartons; the soymilk has a rectangular package with a twist-open top, while the milk has a roof-shaped top."
+  },
+  {
+    "index": 42,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain noodles. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees. Another customer is selecting products in front of the shelf with a small cart; you can wait for them to pass before retrieving your item. The item you need is at your top right. These are fresh noodles on the second shelf from the top, packaged in plastic bags. By gently touching, you might feel the individual strands of noodles inside."
+  },
+  {
+    "index": 43,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain instant noodles. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees. There might be some cardboard boxes at your feet with sharp corners; be careful not to hurt yourself. The item you need is at your top right. The shelf is filled with instant noodles in paper cups, available in different sizes. You can choose the right size for your needs, and you will find them quite light when you pick them up."
+  },
+  {
+    "index": 44,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain paper towel household pack. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 4 steps, then turn left 90 degrees. There's nothing in between. The item you need is at your middle lower. The toilet paper is wrapped in plastic bags, but you can feel the shape of each roll. As you touch them, you can sense the indentation of the paper."
+  },
+  {
+    "index": 45,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain onion. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. On the top shelf, you might touch red peppers and tomatoes placed side by side. The red peppers are hollow inside and feel lighter than the tomatoes on the right. The item you need is at your front. Below the red peppers and tomatoes, you might first touch long cucumbers with possibly prickly surfaces. To the right of the cucumbers, in a crate, are onions. You can feel that they are nearly spherical, and their outermost skin can be peeled off."
+  },
+  {
+    "index": 46,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain hami melon. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees. On the shelf, you might first discover bananas, which are in bunches, each banana being long and curved. The item you need is at your front. They are individual oval spheres with rough, grooved surfaces, hard to the touch and heavy when lifted. To the right of the hemi melons, you might touch mangos, which are smaller, with one end possibly being flatter."
+  },
+  {
+    "index": 47,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 3 steps, then turn left 45 degrees. There is nothing in the immediate vicinity. The item you need is at your left. Hanging on the shelf are bags of snacks, which you can pick from above."
+  },
+  {
+    "index": 48,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 3 steps, then turn right 45 degrees. There is nothing in between. The item you need is at your front. Bananas are long, cylindrical fruits clustered together; to the left of the bananas are oranges, which are spherical. The orange's skin has a granular texture and can be gently squeezed."
+  },
+  {
+    "index": 49,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bowls. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees; then move forward 2 steps, and remain standing. There is nothing in the immediate vicinity. The item you need is at your front. Except for the topmost shelf, the second shelf down holds bowls, and the bottom two shelves contain plates. You will feel the bowls as open containers, smooth to the touch and made of ceramic, requiring careful handling."
+  },
+  {
+    "index": 50,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain canned food. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 5 steps, then turn left 90 degrees; then move forward one step, and remain standing. As you move forward, you may encounter temporarily placed goods; be cautious for safety. The item you need is at your top right. You will touch these sealed food jars, which might feel quite cold. The taller cylindrical ones are likely canned corn, while the flatter shaped cans could be canned fish pieces."
+  },
+  {
+    "index": 51,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain office supplies. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 6 steps, then remain standing. There is nothing in the passageway. The item you need is at your left. You might first touch pens, which are stored in pen holders. You can discern their shape by touching them. To the left of the pens are neatly stacked notebooks."
+  },
+  {
+    "index": 52,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 1 step, then remain standing. There is nothing in between. The item you need is at your middle lower. You can distinguish different types of beverages by their shapes and packaging materials. The bottom layer holds beverages in plastic bottles, typically juices and sodas. The layer above, on the left, contains paper carton-packaged beverages, usually milk-based drinks, while the right side has aluminum can-packaged beverages, like coffee drinks."
+  },
+  {
+    "index": 53,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chocolate favor cornmeal. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. There is nothing in between. The item you need is at your left. You will touch many paper-box packaged foods, located on the third shelf down from the top, on your left, neatly arranged with chocolate-flavored cornmeal."
+  },
+  {
+    "index": 54,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 8 steps, then turn left 45 degrees. There is nothing in the pathway. The item you need is at your bottom middle. You can touch fresh bananas, which are curved and long, and grouped together in bunches."
+  },
+  {
+    "index": 55,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bowls. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees; then move forward 5 steps, turn left 90 degrees; then move forward 2 steps, and turn right 90 degrees. You might first touch a shelf, with a wide aisle to its right and another shelf holding bowls on the other side of the aisle. The item you need is at your front. The bowls on the shelf are neatly arranged. You can gently touch them to feel their ceramic surface and open shape. Some bowls might be a bit heavy, so be careful when picking them up to avoid breaking them."
+  },
+  {
+    "index": 56,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 6 steps, then turn right 45 degrees. On both sides of the path as you move forward, there are shelves holding canned food items. The item you need is at your front. The shelves here are neatly stacked with a variety of snacks, seemingly in plastic bags filled with air. You can choose the ones you need by feeling the size and capacity."
+  },
+  {
+    "index": 57,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain basin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 5 steps, then turn right 90 degrees. There is nothing in the pathway. The item you need is at your front. When you touch the basins on the shelf, you will find they are made of plastic, smooth to the touch, and open in shape. They come in different sizes, and you can choose the appropriate one for your needs. Some may be stacked together, requiring care to separate them when picking up."
+  },
+  {
+    "index": 58,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain zucchini. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. There is nothing in between. The item you need is at your front. Each zucchini is wrapped in a foam protective layer, but you can still distinguish their long, cylindrical shape. One end might have a stem, and their surface may have fine, fuzzy hairs."
+  },
+  {
+    "index": 59,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen chicken. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 3 steps, then turn right 90 degrees. You will smell the aroma of poultry and feel an open refrigerator cabinet, with the nearby air slightly cold. The item you need is at your middle lower. Since these frozen poultry items are not packaged, there is a dedicated salesperson wearing gloves to assist customers. You can tell them whether you need a whole chicken or certain parts of it."
+  },
+  {
+    "index": 60,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward 9 steps, then turn right 90 degrees. There is nothing in the pathway. The item you need is at your left. On the shelves are snacks packed in plastic bags filled with air, possibly chips or biscuits. If you gently lift them, you may hear the sound of the chips or biscuits inside."
+  },
+  {
+    "index": 61,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain ham. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. There is nothing in between. The item you need is at your middle lower. These hams are in large packages, each possibly containing a whole ham, making them quite heavy. The shape of the packaging also resembles the shape of the ham, similar to a racquet."
+  },
+  {
+    "index": 62,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward. There is nothing in between. The item you need is at your middle lower. On the counter, from left to right, are baby Chinese cabbage, hydroponic vegetables, bamboo shoots, and tomatoes. The baby Chinese cabbage is unwrapped, allowing you to feel their texture and leaf stalks. Hydroponic vegetables are in plastic boxes, bamboo shoots in mesh bags, which feel hard and pointed at the top, and tomatoes are wrapped in thin plastic, nearly spherical in shape."
+  },
+  {
+    "index": 63,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees. There are 4 bottles of drinks at your feet, be careful not to kick them. The item you need is at your right. On the top and second shelves of the rack, chips are stacked. They are packaged in plastic bags filled with air, and these chips are in large-sized portions. If you pick them up, you might hear the sound of the chips colliding."
+  },
+  {
+    "index": 64,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees. There is nothing in between. The item you need is at your left. You can touch beverages in various shapes; some are in rectangular paper cartons, which might contain milk, while others are in plastic or glass bottles with narrow openings at the top and wider bases, likely containing juice. You can choose according to your needs."
+  },
+  {
+    "index": 65,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees. There is nothing in between. The item you need is at your middle upper. There are different types of bread, some are square sliced toast, others are round small breads in bags. They are all in plastic bags, and you can gently touch their surface to feel their shapes and notice that they are fluffy and can be compressed."
+  },
+  {
+    "index": 66,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain basin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees. There is nothing in between. The item you need is at your middle upper. On the shelf, there are various basins. You can feel their smooth surfaces, which are made of plastic, and their open shapes. They come in different sizes, allowing you to choose one according to your needs. Some might be stacked together, requiring a bit of effort to separate them."
+  },
+  {
+    "index": 67,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cabbage. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees. If you reach out, you might touch potatoes with traces of soil, somewhat oval-shaped and not very large. Above the potatoes on the shelf, there are larger broccolis with a grainy texture. To the left of the broccoli, there are smooth-surfaced eggplants, varying in size at each end. The item you need is at your top right. Above and to the right of the potatoes are cabbages. If you touch to the right of the potatoes, you will feel the grainy broccoli, and above that, the cabbage, which feels like a bundled sphere with leaf veins. They might feel heavy when picked up."
+  },
+  {
+    "index": 68,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated meat. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees. You will feel the chill of the refrigerator. There might be temporary advertisement papers placed on the shelf with paper-like shapes; be careful not to cut your hand on them. The item you need is at your top right. The refrigerated fresh meat is in shallow plastic boxes, covered with plastic film. You can gently touch it to feel the meat's elasticity. Additionally, the surface of the product might feel slightly greasy to the touch."
+  },
+  {
+    "index": 69,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position;Please Move forward 2 steps, then Turn left 90 degrees There are no obstacles in the pathway. The item you need is at your Front. As you touch the shelves, you will feel packets of snacks, all wrapped in plastic bags. Gently touching them, you might discern the shape of the snacks inside, such as drumsticks or candy. Feel free to choose according to your needs."
+  },
+  {
+    "index": 70,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position;Please Move forward 3 steps, then Remain standing The path is clear with no obstructions. The item you need is at your Top left. On the shelves, you'll find bags of chips, packaged in air-filled plastic bags. As you gently pick one up, you might hear the sound of the chips clashing inside the bag."
+  },
+  {
+    "index": 71,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain champagne. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees;Please Move forward 1 steps, then Remain standing There are no obstructions along the way. The item you need is at your Middle lower. The champagne rack is relatively low, with only two layers. You might first touch the top of the rack and may need to crouch to reach the champagne. They are shaped like wine bottles, with a large belly and a narrow neck, encased in glass. They might be a bit heavy, so handle with care."
+  },
+  {
+    "index": 72,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees There are no objects in your path. The item you need is at your Middle upper. The biscuits are sealed in plastic bags, forming a cylindrical shape as they are stacked together. You can feel this shape as you touch them."
+  },
+  {
+    "index": 73,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chocolate favor biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees The pathway to the shelf is clear. The item you need is at your Front. Counting from the top, on the fourth shelf, the items are shaped like a box and are wrapped in plastic packaging."
+  },
+  {
+    "index": 74,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward The path to the shelf is clear. The item you need is at your Front. In the fruit basket in front of you, there are three types of fruit. To the far left are apples, usually grouped in threes or fours, feeling quite hard to the touch. In the middle are fruits in a plastic box, possibly oranges, not filling the box completely. On the right, there are individually placed oranges, their peel's elasticity noticeable upon touch."
+  },
+  {
+    "index": 75,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position;Please Move forward 1 steps, then Turn left 45 degrees The pathway is unobstructed. The item you need is at your Middle upper. The biscuits may be in bags or boxes, but all are packaged in plastic of varying sizes. You can choose the size that suits your needs."
+  },
+  {
+    "index": 76,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position;Please Move forward 5 steps, then Turn left 45 degrees;Please Move forward 2 steps, then Remain standing On your way, you might encounter temporarily placed containers holding snacks. Be careful not to bump into them. The item you need is at your Left. On the shelves, you'll find bags of chips filled with air. Gently touching them with your hands, you can feel the air inside. You can carefully lift them, possibly hearing the chips clashing inside."
+  },
+  {
+    "index": 77,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated pork. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees A parent is passing by with a stroller, carrying a child. Be careful to avoid bumping into them. The item you need is at your Front. You'll feel the cooler air near the refrigerated section. Inside, there are various fresh pork cuts, like steaks and slices, packed in shallow boxes and sealed with plastic film. Gently touching, you can feel the meat's firmness."
+  },
+  {
+    "index": 78,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position;Please Move forward 2 steps, then Remain standing The path is clear with no obstructions. The item you need is at your Front. The shelf has two levels, both filled with bread wrapped in plastic bags. The lower level is placed in bamboo-woven baskets. Through the plastic, you can feel the fluffy and soft texture of the bread, available in different sizes to choose according to your needs."
+  },
+  {
+    "index": 79,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain family pack rice. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position;Please Move forward 4 steps, then Turn left 90 degrees On the shelf, you might first encounter large-packaged items like family pack flour. The item you need is at your Middle lower. The family pack rice is stacked on the lowest level, possibly right on the ground, wrapped in thick plastic bags. These are large and heavy; you might feel the individual grains through the bag. If needed, ask someone to help you lift them."
+  },
+  {
+    "index": 80,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees The path to the shelf is clear. The item you need is at your Front. The shelf is fully stocked with chips. The top layer holds large packs, while the second layer from the top has regular-sized packs. They are all packaged in air-filled plastic bags, and when you touch them, you can feel the air inside. Lifting them might produce a sound of chips clashing."
+  },
+  {
+    "index": 81,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain red wine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position;Please Move forward 3 steps, then Turn right 90 degrees;Please Move forward 2 steps, then Remain standing There's a customer on your way to the wine shelf; you may wait for them to pass first. The item you need is at your Middle upper. On the shelf, neatly arranged wine bottles are enclosed in glass. The shape of the bottles is typical, with a cylindrical base and a slender neck. As you gently lift them, you might feel the liquid inside moving."
+  },
+  {
+    "index": 82,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain tomato. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees The pathway to the shelf is clear. The item you need is at your Middle upper. The top of the shelf is filled with fresh tomatoes. By touching them, you can feel their near-spherical shape. Their surfaces are very smooth, and at one end, there are small tomato stems and leaves. They can be gently squeezed, revealing their juiciness."
+  },
+  {
+    "index": 83,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position;Please Move forward 5 steps, then Turn left 90 degrees;Please Move forward 1 steps, then Remain standing The path is clear with no obstructions. The item you need is at your Front. As you approach, you'll feel the cooler air near the refrigerated section. The fruits inside are individually wrapped in plastic film. You can gently touch the surface to feel whether the fruits are cut into pieces or whole, and choose according to your needs."
+  },
+  {
+    "index": 84,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain gun mug. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees The path to the shelf is clear. The item you need is at your Front. Many mugs are placed on the shelf, made of ceramic, feeling very smooth and solid to the touch. Some have lids, others do not. You can feel the handles of the mugs and choose the size that suits your needs."
+  },
+  {
+    "index": 85,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees The path to your destination is unobstructed. The item you need is at your Right. In the refrigerated section, fruits are stored in plastic bags or wrapped in plastic film. Some may be oranges, bundled in groups, feeling like small spheres upon gentle touch. There are also individually wrapped apples or dragon fruits, which are much larger than the oranges."
+  },
+  {
+    "index": 86,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain celery. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, move forward 4 steps, then turn right 90 degrees. You will feel the cold air from the refrigerated cabinet, as you touch, you will encounter various vegetables wrapped in plastic bags. The item you need is positioned in the middle lower section of the cabinet. In the bottom layer of the refrigerated cabinet, you can feel the stalks of celery bundled together. To the left of the celery is broccoli, which you can discern by its tree-like, round shape. Next to the celery are leeks, which feel like skinny stick with soft leaves at the top."
+  },
+  {
+    "index": 87,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain carrots. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, Move forward one step and then turn left 45 degrees. You may first touch tomatoes wrapped in plastic film, which are nearly round in shape, The item you need is located to your top left, easily reachable. Carrots are above the tomatoes, and although they are also wrapped in plastic film together, you can clearly feel that they are harder and elongated in shape."
+  },
+  {
+    "index": 88,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain orange. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the left of the shelf, please turn right 90 degrees Near the freezer, the air feels a bit cooler, and as you reach out, you might touch several bamboo baskets woven into fruit crates. The first might be one holding fresh pomegranates, which are rather large, nearly spherical, but with a distinct small point at one end, and they feel quite hard. The item you need is at your Bottom left. Oranges are located at the very bottom of the freezer, packed in mesh bags, each containing several pieces. Compared to the pomegranates, each orange is slightly smaller and more oval-shaped. Their surface feels softer, yielding to pressure, and you might even catch the fragrance of the oranges."
+  },
+  {
+    "index": 89,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain orange. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position. Please move forward four steps and then turn left by ninety degrees.Nothing in the pathway. The item you need is at your middle lower level. When you squat down, you might first touch the wooden box, which may have sharp edges, so be careful. The oranges are in an open wooden box at the top. You can feel their almost elliptical shape, their textured surface, and by gently squeezing, you can feel the juice inside. You might also smell the fragrance of the oranges."
+  },
+  {
+    "index": 90,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain tissue paper. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, Please move forward three steps and then remain standing. The item you need is at your Front. You might torch a shelf; on it are plastic-wrapped tissues, generally bundled together. Each package may be rectangular or cylindrical in shape. You can press the surface to feel the compressible tissues inside."
+  },
+  {
+    "index": 91,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain hemi melon. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, Please Move forward 2 steps, then Turn right 45 degrees, nothing in between in the pathway, The item you need is at your Front. You will touch a shelf, on which are placed hemi melons. You can feel relatively large oval objects with hard surfaces and a rough texture. To their right are watermelons, which feel rounder and have smoother surfaces."
+  },
+  {
+    "index": 92,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain pineapple. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position Move forward one step, then turn right 90 degrees to face the new direction. First, you may touch the oranges, neatly arranged in a basket, almost oval in shape with a squeezable surface. The item you are looking for is situated to your lower left. To the left of the oranges, you will find the pineapples, topped with sharp leaves that may prick your hand. They are larger, with a surface covered in dense, hard scales, and may feel heavy when lifted."
+  },
+  {
+    "index": 93,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position To your left is a freezer; you can feel the air nearby is cooler. Please Move forward 6 steps, then Turn left 90 degrees When you touch, the freezer has five shelves. You might first touch the third shelf from the top, where plastic-boxed cheese is placed. Its packaging is rectangular. The item you need is at your Middle lower. Below the cheese is the milk, in not-too-large glass bottles with round twistable tops. When picked up and gently shaken, you can feel the liquid inside moving."
+  },
+  {
+    "index": 94,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cherry. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees Near the shelf, you may feel a chill in the air, suggesting the presence of fresh produce. The item you need is at your Front. The shelf has four layers, all stocked with cherries. The bottom layer holds large gift-boxes, while the upper three are simpler packs. Each cherry is neatly placed in rectangular plastic trays, covered with a thin plastic film. When you touch them gently, you might feel their small, round shape, like little spheres, neatly arranged. These are located on the far left of the shelf, with three portions per layer. To their right, you may touch similarly shaped fruits, possibly longans, which require differentiation. Turning 90 degrees along the cherries on the left side of the shelf, you'll find small boxes of blueberries, in slightly smaller rectangular packaging, distinguishable by touch."
+  },
+  {
+    "index": 95,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain sparkling water. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position Move forward one step and then turn right by 90 degrees. nothing in between in the pathway. The item you need is directly in front of you. You will feel shelves, which have six levels. On the second level from the top, there is sparkling water in plastic bottles, with a slender, somewhat conical top. On the very top shelf, there is coffee, while the third level holds regular mineral water. If you gently shake the sparkling water bottle, you might feel the liquid inside vibrating."
+  },
+  {
+    "index": 96,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward There is nothing obstructing the pathway, allowing for a clear approach. The item you need is at your Middle lower. As you touch the shelf, you'll find it has two layers. On the left and in the middle of each layer, there are bags of chips. These bags are made of plastic, filled with air to cushion the chips. If you pick up a bag and gently shake it, you might hear the sound of the chips clashing inside. Feel free to reach out and grab it."
+  },
+  {
+    "index": 97,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain corncob. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing in front of the shelf, no need to move forward or backward The pathway is clear and unobstructed. The item you need is at your Right. As you touch the shelf, you may first encounter cauliflower, which feels like clusters of firm buds, with a root at the bottom, branched stems, and floret-like leaves at the top that have a grainy texture. Lifting it may feel slightly heavy. To the right of the cauliflower is a corncob, still unhusked, spindle-shaped with a rough, slightly prickly outer leaf, and tasseled at the top."
+  },
+  {
+    "index": 98,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain kiwifruit. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position Move forward one step and then turn right by 45 degrees, proceeding in this new direction. As you proceed, you may first encounter a rack holding plastic wrap rolls. These rolls are cylindrical and can rotate, so be careful to avoid bumping into them. Directly in front of you is the item you're searching for. They are neatly placed in a plastic box, possibly containing four or six pieces. If you gently press the surface of the box, you can feel that they are somewhat cylindrical yet slightly oval-shaped. When picked up, they might not feel very light."
+  },
+  {
+    "index": 99,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain Danish cookie. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "You are standing to the right of the shelf, please turn left 90 degrees. The pathway to the shelf is clear, with no obstacles in between. The item you need is at your Top left. They are large, rectangular gift boxes wrapped in thick cardboard with a rope handle on top. These boxes are placed on the topmost, leftmost part of the shelf, beside and one-layer below of then are smaller biscuit boxes wrapped in paper."
+  }
+]
