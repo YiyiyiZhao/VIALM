@@ -27,17 +27,19 @@ For the survey part, we have collected a list of related papers, which will be c
 * Ebtesam Almazrouei, Hamza Alobeidli, and et al. The falcon series of open language models. arXiv, 2311.16867, 2023
 
 ### 2.2 Visual-Language Models (VLMs)
+* Jean-Baptiste Alayrac, Jeff Donahue, and et al. Flamingo: a visual language model for few-shot learning. In NeurIPS,2022.
+* Xi Chen, Xiao Wang, and et al. PaLI: A jointly-scaled multilingual language-image model. In ICLR, 2023.
+* Junnan Li, Dongxu Li, and et al. BLIP-2: bootstrapping language-image pre-training with frozen image encoders and large language models. In ICML, 2023.
+* OpenAI. GPT-4 technical report. arXiv, 2303.08774, 2023.
+* Haotian Liu, Chunyuan Li, and et al. Visual instruction tuning. arXiv, 2304.08485, 2023.
+* Deyao Zhu, Jun Chen, and et al. MiniGPT-4: Enhancing vision-language understanding with advanced large language models. arXiv, 2304.10592, 2023.
+* Xi Chen, Josip Djolonga, and et al. PaLI-X: On scaling up a multilingual vision and language model. arXiv, 2305.18565, 2023.
+* Wenliang Dai, Junnan Li, and et al. InstructBLIP: Towards general-purpose vision-language models with instruction tuning. arXiv, 2305.06500, 2023.
 * Wenhai Wang, Zhe Chen, and et al. VisionLLM: Large language model is also an open-ended decoder for vision-centric tasks. arXiv, 2305.11175, 2023.
 * Wenbo Hu, Yifan Xu, and et al. BLIVA: A simple multimodal LLM for better handling of text-rich visual questions. arXiv, 2308.09936, 2023.
-* Srinivasan Iyer, Xi Victoria Lin, and et al. OPT-IML: scaling language model instruction meta learning through the lens of generalization. arXiv, 2212.12017, 2022.
-* Junnan Li, Dongxu Li, and et al. BLIP-2: bootstrapping language-image pre-training with frozen image encoders and large language models. In ICML, 2023.
-* Haotian Liu, Chunyuan Li, and et al. Improved baselines with visual instruction tuning. arXiv, 2310.03744, 2023.
-* Haotian Liu, Chunyuan Li, and et al. Visual instruction tuning. arXiv, 2304.08485, 2023.
-* James Manyika. An overview of bard: an early experiment with generative ai. AI. Google Static Documents, 2023.
+* Jinze Bai, Shuai Bai, and et al. Qwen-VL: A frontier large vision-language model with versatile abilities. arXiv, 2308.12966, 2023. 
+* Jun Chen, Deyao Zhu, and et al. Minigpt-v2: large language model as a unified interface for vision-language multi-task learning. arXiv, 2310.09478, 2023.
 * Weihan Wang, Qingsong Lv, and et al. CogVLM: Visual expert for pretrained language models. arXiv, 2311.03079, 2023.
-
-
-
 
 
 
