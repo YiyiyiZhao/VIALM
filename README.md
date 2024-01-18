@@ -57,11 +57,11 @@ Example:
 ![Benchmark](./images/benchmark_example.png 'Benchmark annotations')
 
 ### 3.1 Benchmark Annotations
-The annotated evaluation dataset can be found at ./benchmark/annotations .
-The input environment images can be found at ./benchmark/environment_images .
+The annotated evaluation dataset can be found at ```./benchmark/annotations```.
+The input environment images can be found at ```./benchmark/environment_images```.
 
 ### 3.2 LM Predictions
-The predictions made by the six large models (LMs) can be found at ./benchmark/lm_predictions .
+The predictions made by the six large models (LMs) can be found at ```./benchmark/lm_predictions```.
 
 A list of large models used:
 * GPT-4
