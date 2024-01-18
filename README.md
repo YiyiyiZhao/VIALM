@@ -1,13 +1,13 @@
 # VIALM
-This repository offers a survey and benchmark for Visual Impairment Assistance using Language Models (VIALM).
+This repository offers a survey and benchmark for Visual Impairment Assistance using Large Models (VIALM).
 ## 1. Task Illustration
-AThe following image is a sample input and output of VIALM.
-Its input is a pair of a visual image of the environment (the left image) and a user request in human language (the grey box).
-The yellow box shows the output guidance for VI users to complete the request within the environment (the right image).
-The output should grounded and fine-grained for VI users to follow easily.
+The following figure illustrates a sample input and output of VIALM.
+The input is a pair of a visual display of the environment (the image on the left) and a user request in human language (the grey box).
+The yellow box shows the output guidance for VI users to complete the request within the environment (the image on the right).
+The output should be grounded and fine-grained for VI users to follow easily.
 ![VIALM](./images/VIALM_task.png 'VIALM_task')
 ## 2. Paper Collections
-For the survey part, the following are related papers. It will be continually updated. The following image is a summary of timeline.
+For the survey part, we have collected a list of related papers, which will be continually updated. The image below summarizes the timeline of the papers.
 ![Timeline](./images/timeline.png 'LM Timeline')
 ### 2.1 Large Language models (LLMs)
 * Tom B. Brown, Benjamin Mann, and et al. Language models are few-shot learners. In NeurIPS, 2020.
@@ -51,8 +51,22 @@ For the survey part, the following are related papers. It will be continually up
 * Ishika Singh, Valts Blukis, and et al. ProgPrompt: Generating situated robot task plans using large language models. In ICRA, 2023.
 * Chan Hee Song, Jiaman Wu, and et al. Llm-planner: Few-shot grounded planning for embodied agents with large language models. arXiv, 2212.04088, 2022.
 ## 3. Benchmark Evaluation
+Our benchmark consists of two common daily life environment, domestic home and supermarket. 
+
+Example:
+![Benchmark](./images/benchmark_example.png 'Benchmark annotations')
+
 ### 3.1 Benchmark Annotations
+The annotated evaluation dataset can be found at ```./benchmark/annotations```.
+The input environment images can be found at ```./benchmark/environment_images```.
+
 ### 3.2 LM Predictions
+The predictions made by the six large models (LMs) can be found at ```./benchmark/lm_predictions```.
 
-
-
+A list of large models used:
+* GPT-4
+* CogVLM
+* MiniGPT
+* Qwen-VL
+* LLaVA
+* BLIVA
