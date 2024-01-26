@@ -70,10 +70,13 @@ The input environment images can be found at ```./benchmark/environment_images``
 ### 3.2 LM Predictions
 The predictions made by the six large models (LMs) can be found at ```./benchmark/lm_predictions```.
 
-A list of large models used:
-* GPT-4
-* CogVLM
-* MiniGPT
-* Qwen-VL
-* LLaVA
-* BLIVA
+The evaluation models are:
+* GPT-4 [link](https://chat.openai.com/)
+* CogVLM [Repository](https://github.com/THUDM/CogVLM)
+* MiniGPT [Repository](https://github.com/Vision-CAIR/MiniGPT-4)
+* Qwen-VL [Repository](https://github.com/QwenLM/Qwen-VL)
+* LLaVA [Repository](https://github.com/haotian-liu/LLaVA)
+* BLIVA [Repository](https://github.com/mlpc-ucsd/BLIVA)
+
+Prediction example：
+![Case](./images/case.png 'Prediction Example')
